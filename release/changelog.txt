@@ -1,0 +1,438 @@
+New in 5.2 testing 14
+Now, no matter where you are, as long as you are in a safe zone, you can get to the sz menu.
+Fixed many mysterious moving bugs with the camera
+New in 5.2 testing 13
+Fixed chat typing sounds moved with your camera.
+New in 5.2 testing 12
+Fixed beacons clicking during camera use.
+New in 5.2 testing 11
+Fixed cameraing someone.
+New in 5.2 testing 10
+Fixed the view camera's position sometimes got lost.
+New in 5.2 testing 9
+Fixed if you used the camera in the sz and shot when you moved it out, you could fire.
+Removed old beacons
+New in 5.2 testing 8
+Added a view camera. Hit S to enable it.
+Fixed a bug where if you were in vocal mode, you could not walk left.
+Overhalled the sound engine, giving me complete control over a player's virtual position.
+New in 5.2 testing 7
+Adjusted how item sounds played. You won't notice a difference really but now they're more compatible with the sound code.
+New in 5.2 testing 6
+Made the turn sounds play in the direction you turn to, instead of stationary.
+New in 5.2 testing 5
+Fixxxed bug where when you signed out and back in, existing players would have multiple beacons.
+more adjusting with the sound system.
+New in 5.2 testing 4
+Redesigned pan and volume to be a bit more informational.
+New in 5.2 testing 3
+Increased max and min pitch values.
+New in 5.2 testing 2
+Added propper sapi support into the game.
+New in 5.2 testing 1
+Made it so when you turned on or off the sonar, it writes the preferences.
+Added you can hit G and C to check camera's location.
+New in 5.1
+Finished builder mode, client-wise.
+New in 5.1 testing 3
+Beta of builder mode.
+New in 5.1 testing 2
+Updated it so bow cannot shoot with right control.
+New in 5.1 testing 1
+Added a voice from Garrett, the Mac Alex voice. Thanks.
+New in 5.0
+Added the behind pitch decrease.
+New in 5.0 testing 8
+Added map-wide beacons.
+Removed the I J K and L to move keys.
+Removed right control to fire.
+New in 5.0 testing 7
+Added death pitch.
+New in 5.0 testing 6
+Added pain pitch.
+New in 5.0 testing 5
+Changed sonar key.
+Finished voice pitch code.
+New in 5.0 testing 4
+Started working on new voice pitch system.
+New in 5.0 testing 3
+Handle for new char limits.
+New in 5.0 testing 2
+Added a detection of if the player currently being followed or looped goes offline.
+Added a feature where you can ping players with a looping beep sound.
+New in 5.0 testing 1
+Added player synchronization code, which allows for some pretty awesome stuff.
+*Now you can follow someone.
+New in 4.7
+Redesigned most sounds.
+New in 4.7 testing 7
+fixes a few bugs with menu.
+New in 4.7 testing 6
+Fixes for having weapons fully broken and being able to use them.
+New in 4.7 testing 5
+me being bored.
+New in 4.7 testing 4
+Dedicated testing server now!
+New in 4.7 testing 3
+Added a few new voices.
+New in 4.7 testing 2
+Renamed a lot of sounds.
+new in 4.7 testing 1
+Added voice 4 no commands that he just sent me.
+New in 4.6
+Added new voice.
+New in 4.6 testing 1
+Fixed speech interrupt.
+New in 4.5
+Admin stuff.
+New in 4.5 testing 3
+added first letter navigation to the menus.
+New in 4.5 testing 2
+Recoded the buffer system, same keys are used but they've been improved majorly.
+Changed ai checking key to alt period.
+New in 4.5 testing 1
+Added a new voice, not complete yet, but for those of you who and I know some do, like voices like that.
+New in 4.4
+Adds an auto updater.
+Fixed some key issues.
+New in 4.3
+Added alternate moving/camera/turning keys.
+New in 4.2
+Fixed some things.
+Added 2 new weapons.
+Allowing right control to fire.
+New in 4.1
+Releasing as freeware.
+New in 4.1 testing 4
+Changed sonar key to E.
+New in 4.1 testing 3
+From this point onward, UltraPower is no longer available for purchase or public download. Only testers (those who enjoy it) will be able to play, and those who were ungreatful will not. Registration keys have been removed.
+New in 4.1 testing 2
+Changed sonar key to period.
+New in 4.1 testing 1
+Fixed the voices go command. An if statement can really make a big difference LMAO.
+New in 4.0
+Modified the registration system.
+Fixed sources and ropes not spawning when you restarted.
+Renamed experimental in the title bar.
+New in 4.0 testing 26
+Fixed you could not hit O in the voices thanks NS.
+New in 4.0 testing 25
+Fixed phasing move sounds when you died.
+New in 4.0 testing 24
+Tried to fix admin move commands.
+New in 4.0 testing 23
+Tried to fix grenade launcher.
+New in 4.0 testing 22
+Fixed you couldn't hear someone climbing the staircases.
+New in 4.0 testing 21
+Added a feature to remove a key if you have been banned.
+New in 4.0 testing 20
+Added a way to remove registration info.
+New in 4.0 testing 19
+Fixed the land sound not playing locally in cases where you fell off a platform or jumped onto one, such as the sz wall or a rope.
+New in 4.0 testing 18
+Added more to the platform of metal on the sz.
+New in 4.0 testing 17
+Fixed the tracker key.
+New in 4.0 testing 16
+Added script keys.
+New in 4.0 testing 15
+Added sonar
+New in 4.0 testing 14
+Added support for buying food.
+New in 4.0 testing 13
+Added roof jumping practice.
+New in 4.0 testing 12
+Fixed walls under platforms.
+New in 4.0 testing 11
+Fixed camera and walls.
+New in 4.0 testing 10
+Redid walls.
+Added a lake.
+New in 4.0 testing 9
+Fixed camera.
+New in 4.0 testing 8
+Added so you can hear people's camera.
+New in 4.0 testing 7
+Added the first activity! Note, in beta.
+New in 4.0 testing 6
+Fixed tracker system.
+New in 4.0 testing 5
+Recoded steps.
+Recoded landing so you land instantly now.
+New in 4.0 testing 4
+Added ropes and staircases.
+Changed and added some step sounds.
+Added metal to the wall so you can jump onto it.
+New in 4.0 testing 3
+Fixed a fall code.
+New in 4.0 testing 2
+Added a camera.
+Added echo steps.
+New in 4.0 Testing 1
+This is the Platforming 2d up experimental version.
+New in 3.0
+Added a registration system.
+Reworked chat system.
+New in 2.52
+Added key to check AIs.
+New in 2.51
+Made it so you can give food.
+Made it so you can giv knives now.
+New in 2.5
+Added food effects.
+New in 2.4
+Added broken weapons.
+New in 2.4 testing 5
+Added items!
+Fixed you can send weapon 0 ammo.
+Added giving of potions.
+Added potions
+New in 2.4 testing 4
+Removed ticking sound.
+New in 2.4 testing 3
+More fixes.
+New in 2.4 testing 2
+Attempting again.
+New in 2.4 testing 1
+Added an auto reconnecter for server updating.
+New in 2.3
+Added giving of UltraDollars.
+New in 2.3 testing 1
+Made edit boxes a little more alertful.
+Added a key to automate the give command.
+New in 2.2
+Fixed more stuff.
+New in 2.2 testing 14
+Added new weapon
+Tried to fix some menu stuff.
+New in 2.2 testing 13
+Tried to fix location bug.
+New in 2.2 testing 12
+Added the NS voice!
+New in 2.2 testing 12
+Fixed voices thing.
+Added new voice
+New in 2.2 testing 11
+Added 3 new voice commands.
+New in 2.2 testing 10
+Fixed a bug where knife would runtime error the server.
+New in 2.2 testing 9
+Made it so you can buy ammo
+Made ammo more secure.
+New in 2.2 testing 8
+Started work on ammo system.
+New in 2.2 testing 7
+Another command.
+New in 2.2 testing 6
+Added more commands.
+Added a death sound.
+Removed alert box
+New in 2.2 testing 5
+Hopefully fixed pain sounds.
+Hopefully fixed the grenade launcher not firing as it was originally supposed to, 10 by 10 range.
+New in 2.2 testing 4
+Added voices.
+New in 2.2 testing 3
+Adjusted for multi-spaced names the online message.
+New in 2.2 testing 2
+Adjusted in the server maximum health upgrades.
+Adjusted jump speed.
+New in 2.2 testing 1
+Added you can copy or check a tracked player's health.
+New in 2.1
+Fixed sounds not playing if you logged out and back in.
+Redesigned safe zone.
+New in 2.1 testing 3
+Added gifts. A random player gets a gift when I have gifting enabled on the server. It gives out gifts every 30 seconds.
+New in 2.1 testing 2
+Updated readme.
+Added a key to check who was out of the safe zone (Thanks keyWasFull)
+New in 2.1 testing 1
+Added favor and how it is used.
+New in 2.0
+Added a spot on the map to regenerate your health if it went into the negatives.
+New in 2.0 testing 4
+Added more ambiences to the map.
+Removed main ambience and music.
+Fixed typo in the beacon for the sz entrance.
+New in 2.0 testing 3
+Adjusted maximum walk speeds.
+Made the left alt run, and stopped the controls from running.
+New in 2.0 testing 2
+Added on to the map.
+New in 2.0 testing 1
+Major reworking of map system, in favor of being able to add new maps. Also, added a safe zone on the physical map.
+
+New in 1.2 testing 1
+Changed the termination message from kicked to disconnected, to make it sound a bit less harsh.
+New in 1.1
+Fixed bug where the data didn't save.
+Fixed bug where if online messages was set to off, it would read online playername instead.
+New in 1.1 testing 3
+Added a few toggle keys.
+Reverted back to a propper version number.
+New in 1.1.0 testing 2
+Added a key to check the version of someone you track.
+New in 1.1.0 testing 1
+Added a date/time system, hit f12.
+new in 1.0.0
+Officially released.
+new in 0.28.70
+Changed the track who edit box to a menu.
+Removed sound when you hit O, it was just a debug feature.
+Removed get equipment option.
+new in 0.28.69
+Added turning with shift and arrows.
+new in 0.28.68
+Added player trackers, in beta.
+added beacons.
+new in 0.27.67
+Fixed some stuff.
+new in 0.26.66
+Under the hood code fixes and compatibilities.
+new in 0.26.65
+Fixed the 500 500 bug.
+made the sz spawner at 0 0 actually do stuff.
+cleared out all chars from the UP server because of all the cheating.
+new in 0.25.64
+Added a way to donate ultra dollars to the sz/server to show your interest in the game.
+Added a safe zone menu.
+Added a currency, UltraDollars.
+new in 0.24.63
+added speaking of zones.
+new in 0.24.62
+Redesigned the map a bit.
+Added titles of areas.
+new in 0.24.61
+Disabled gun firing in the sz.
+Added a key, B, to check where you are, such as safe zone, whatever.
+Added a safe zone.
+I have fixed the death bug internally.
+new in 0.23.60
+trying in vain to fix death bug.
+new in 0.23.59
+Replaced respawning msg with sound.
+Added that when you're hitting C, at the 500, 500 to respawn, it says so.
+new in 0.23.58
+Experimental.
+new in 0.23.57
+Adjusted some timeout stuff.
+Somehow, in the last version, I fixed an old bug where it would wait for players to time out before saying they were offline.
+new in 0.23.56
+Now, if a server connection is not found, just wait about 30-45 seconds and you will be brought back to the main menu. No more task manager!
+Now, if you hit escape in the game, you will be brought back to the main menu!
+new in 0.23.55
+Brought game back.
+new in 0.22.54
+Dropped support for the game.
+new in 0.21.53
+Added code to make kicking work.
+new in 0.21.52
+updated speed.
+new in 0.21.51 beta
+Added a speed thingy, as a test. Still only barely started it, but yeah.
+new in 0.20.50
+Updated the readme.
+Sound overhall.
+Added weapon names.
+new in 0.19.49
+Fixed some stuff.
+new in 0.19.48
+Updated stuff.
+new in 0.19.47
+Added a secondary server.
+new in 0.18.46
+Added a stupid grenade launcher.
+new in 0.17.45
+Made it so newly registered users do not send speech packets.
+new in 0.16.44
+Game is now freeware. Woohoo.
+new in 0.15.43
+Tried to fix landing.
+new in 0.15.42
+Tried to fix bugs
+new in 0.15.41
+Tried to fix bugs
+new in 0.15.40
+Tried to fix bugs
+new in 0.15.39
+More fixes.
+new in 0.15.38
+more fixes.
+new in 0.15.37
+Fixed a small error.
+new in 0.15.36
+Fixed a security bug when registering, thanks tspivey.
+new in 0.14.35
+Changing some things to make it more secure.
+new in 0.13.34
+Fixed a bug.
+new in 0.13.33
+Fixed some more stuff.
+new in 0.12.32
+Fixed some stuff, I hope.
+new in 0.11.31
+Built a new map.
+added ambiences and stuff.
+new in 0.10.30
+released first beta!
+new in 0.9.29
+Added a few new weapons.
+new in 0.8.28
+added 2 new weapons.
+new in 0.8.27
+Fixed server and client back to how it was before.
+new in 0.7.26
+Updated to match server's new code.
+new in 0.6.25
+added so you have multiple weapons.
+new in 0.5.24
+added keys to jump to beginning and end of history.
+new in 0.5.23
+updated how fast you jump.
+new in 0.5.22
+Adds another feature.
+new in 0.5.21
+Fixed landing.
+new in 0.5.20
+Tried to fix more bugs.
+new in 0.5.19
+fixed a really awesome, not, bug.
+new in 0.5.18
+Started jumping code.
+new in 0.4.17
+upgraded level info!
+new in 0.3.16
+Fixed machine gun more.
+new in 0.3.15
+Client update.
+new in 0.2.14
+Tried to fix killing.
+new in 0.2.13
+Fixed some more bugs, fixing the delay of shooting.
+new in 0.2.12
+You can, sort of, kill people now but it's very very buggy.
+new in 0.2.11
+Fixed loads and loads of bugs, including the level bug!
+Added health!
+new in 0.1.10
+Added a new main menu!
+new in 0.1.09
+Made the first gun work. note, it's got some delay, but I'll work on it.
+new in 0.1.08
+Started working on firing a gun.
+new in 0.1.07
+I am a complete idiot.
+new in 0.1.06
+Added an option to check the server version manually, by hitting F1.
+new in 0.1.05
+Fixed some bugs.
+new in 0.1.04
+Tried to make disconnection less delayed.
+new in 0.1.03
+implemented the online and offline code.
+new in 0.1.02
+Fixed history
+Added a slash version command
